@@ -1,0 +1,78 @@
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t reveal_title_slide:nil
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: toc:nil
+#+REVEAL_TRANS: none
+#+REVEAL_THEME: league
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="GDI Mpls Sept 2017 Meetup">
+#+REVEAL_POSTAMBLE: <div> Created by Tamara Temple &lt;tamara@tamouse.org&gt; </div>
+#+REVEAL_PLUGINS: (markdown notes)
+#+BEGIN_EXPORT html
+<style media="screen">
+@import url("https://fonts.googleapis.com/css?family=Montserrat:700,700i");
+.reveal h1,.reveal h2,.reveal h3,.reveal h4,.reveal h5,.reveal h6 {
+text-transform: inherit; font-family: "Monserrat", sans-serif; font-weight: bold;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i");
+.reveal section. .reveal div, .reveal p, .reveal ul, .reveal ol, .reveal li, .reveal dl, .reveal dt, .reveal dd,
+.reveal blockquote, .reveal q, .reveal aside, .reveal figure, .reveal figcaption, .reveal article, .reveal header,
+.reveal footer, .reveal span, .reveal i, .reveal b, .reveal em, .reveal strong {
+font-family: "Lato", sans-serif;
+}
+.reveal .slide-number { color: white; }
+</style>
+#+END_EXPORT
+
+* GDI MPLS Monthly Meetup
+
+  September 5, 2017
+
+  BuzzFeed
+
+* Agenda
+
+   - Introductions
+
+   - Speakers
+
+   - Community
+
+   - Closing
+
+* Tonight's Talks
+
+   - Shalanah Dawson: "Photoshop to Web: Adventures in Pixel Perfect
+     Design"
+   - Alana McKinney: "Speaking Up: Creating your own learning environment"
+   - Jenessa White: "Website Accessibility: Awesome and Needed"
+
+* Community
+
+  - Need 48in48 Volunteers
+
+  - Job Offers, Needs?
+
+* Upcoming
+
+   - GDI MPLS 3rd Anniversary Party: Thu, Sep 14
+   - Intro to Website Building: Sat, Sep 23
+   - Intro to Version Control with Git: Sat, Oct 7
+   - Intro to Website Styling: Sat, Oct 28
+
+* Toast and Tech
+
+   Weekly, Tuesday nights, 6:30 to 8:30
+
+* Speakers for October Meetup
+
+   Sign up!
+
+   https://goo.gl/forms/BzNdNiHVSvhNrXg43
+
+   /or/
+
+   http://bit.ly/GDIMPLSTALKS
+
+* Volunteer Opportunities
+
+   - ??
