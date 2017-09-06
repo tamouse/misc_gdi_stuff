@@ -1,0 +1,6 @@
+#+OPTIONS: author:nil dat:nil email:nil num:nil toc:nil timestamp:nil
+#+HTML_HEAD: <style>body{font-family:sans-serif;font-size:48px;margin:50px 70px;background-color:papayawhip;color:grey;}</style>
+
+*** Monthly Meetups
+
+    - [[./2017-09-monthly-meetup-slides.html][Sept 2017 Monthly Meetup]]

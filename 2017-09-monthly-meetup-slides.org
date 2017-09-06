@@ -63,16 +63,26 @@ font-family: "Lato", sans-serif;
 
    Weekly, Tuesday nights, 6:30 to 8:30
 
-* Speakers for October Meetup
+* Speakers for next meetup
 
-   Sign up!
+   sign up at http://bit.ly/GDIMPLSTALKS
 
-   https://goo.gl/forms/BzNdNiHVSvhNrXg43
-
-   /or/
-
-   http://bit.ly/GDIMPLSTALKS
+   #+BEGIN_EXPORT html
+   <img src="./images/gdimpls-monthly-meetup-talk-signup-form.qr.png" class=""
+        width="200"
+        alt="QR Code for GDIMpls Monthly Meetup Talk Signup Form" />
+   #+END_EXPORT
 
 * Volunteer Opportunities
 
-   - ??
+   - Need TAs for Sep 23 Intro to Website Building
+
+** Volunteer Signup
+
+   http://bit.ly/GDIMplsVolForm
+
+   #+BEGIN_EXPORT html
+   <img src="./images/gdimpls-volunteer-form.qr.png"
+        class="" width="200"
+        alt="GDIMpls Volunteer sign up form" />
+   #+END_EXPORT
