@@ -24,11 +24,11 @@ font-family: "Lato", sans-serif;
 #+END_EXPORT
 
 * GDI MPLS Monthly Meetup
-
   September 5, 2017
 
   BuzzFeed
 
+  BuzzFeedGuest : lovewins
 * Agenda
 
    - Introductions
